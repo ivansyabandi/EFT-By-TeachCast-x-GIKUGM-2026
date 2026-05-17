@@ -1,11 +1,14 @@
-<div align="center">
+# English Fluency Test (EFT)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern, student-centric portal for managing and viewing English Fluency Test results.
 
-  <h1>Built with AI Studio</h2>
+### Features
+- **Code Redemption**: Students can get their unique EFT access codes.
+- **Leaderboard**: Real-time ranking of students based on their test scores.
+- **Admin Dashboard**: For organizers to monitor code usage and statistics.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+### Tech Stack
+- React + Vite
+- Tailwind CSS
+- Framer Motion
+- Firebase Realtime Database
