@@ -480,7 +480,7 @@ function Leaderboard({ onNavigate }: { onNavigate: (p: Page) => void, key?: stri
               className="inline-flex items-center gap-2 bg-indigo-600 text-white px-5 py-2.5 rounded-full font-bold text-sm shadow-lg shadow-indigo-100 hover:bg-indigo-700 transition-all active:scale-95"
             >
               <Plus className="w-4 h-4" />
-              <span className="hidden sm:inline">Add Score</span>
+              <span className="hidden sm:inline">Input Your Points</span>
             </button>
             <button 
               onClick={() => onNavigate('home')}
